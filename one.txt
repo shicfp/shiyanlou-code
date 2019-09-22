@@ -1,2 +1,4 @@
 git is so simple.
 hello shiyanlou
+
+add test info
