@@ -2,3 +2,5 @@ git is so simple.
 hello shiyanlou
 
 add test info
+
+add test info 2 times.
